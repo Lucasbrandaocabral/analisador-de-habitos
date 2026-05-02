@@ -2,6 +2,8 @@
 
 Você sabe quanto tempo passa no Instagram quando acha que está "só dando uma olhada"? Esse projeto responde isso.
 
+![Dashboard](assets/dashboard.png)
+
 Lê o histórico real do seu navegador, classifica cada site visitado por categoria e calcula um score de produtividade do seu dia — tudo exposto via API REST e visualizado num dashboard.
 
 ---
